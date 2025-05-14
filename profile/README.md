@@ -6,11 +6,44 @@
 <h3 align="center">Connecting Talent with Opportunities for the 2030 World Cup in Morocco</h3>
 
 
-## About
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🏆_1st_Place_Winner-FFD700?style=for-the-badge&logoColor=black" alt="1st Place Winner"/>
+</h2>
 
-ConnectiWork is revolutionizing temporary employment during the 2030 World Cup in Morocco. Our platform connects local talent with short-term job opportunities, creating economic opportunities for Moroccan youth, adults, and the unemployed while supporting the massive workforce needs of the World Cup event.
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🌍_World_Cup_2030-2BB363?style=for-the-badge&logoColor=white" alt="World Cup 2030"/>
+  <img src="https://img.shields.io/badge/🇲🇦_Morocco-C1272D?style=for-the-badge&logoColor=white" alt="Morocco"/>
+  <img src="https://img.shields.io/badge/💼_Job_Platform-141619?style=for-the-badge&logoColor=white" alt="Job Platform"/>
+</h3>
 
-Our mission is to empower local communities by providing accessible employment opportunities and helping businesses find qualified staff during this global sporting event.
+<p align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/About-7849FF?style=flat-square&logoColor=white" alt="About"/></a> •
+  <a href="#key-features"><img src="https://img.shields.io/badge/Features-2BB363?style=flat-square&logoColor=white" alt="Features"/></a> •
+  <a href="#technologies"><img src="https://img.shields.io/badge/Tech_Stack-141619?style=flat-square&logoColor=white" alt="Tech Stack"/></a> •
+  <a href="#ai-model"><img src="https://img.shields.io/badge/AI_Model-7849FF?style=flat-square&logoColor=white" alt="AI Model"/></a> •
+  <a href="#screenshots"><img src="https://img.shields.io/badge/Screenshots-2BB363?style=flat-square&logoColor=white" alt="Screenshots"/></a> •
+  <a href="#team"><img src="https://img.shields.io/badge/Team-141619?style=flat-square&logoColor=white" alt="Team"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0227a36-c918-40ce-8441-bc165e6e98bf" alt="ConnectiWork App Showcase" width="800"/>
+</p>
+
+## About 
+
+ConnectiWork is revolutionizing temporary employment during the 2030 World Cup in Morocco. Our award-winning platform connects local talent with short-term job opportunities, creating economic opportunities for Moroccan youth, adults, and the unemployed while supporting the massive workforce needs of the World Cup event.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_1st_Place_Winner-FFD700?style=for-the-badge&logoColor=black" alt="1st Place Winner"/>
+</p>
+
+Our mission is to empower local communities by providing accessible employment opportunities and helping businesses find qualified staff during this global sporting event. Our innovative approach and social impact earned us the prestigious 1st place recognition.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Target-7849FF?style=for-the-badge&logoColor=white" alt="Target"/>
+  <img src="https://img.shields.io/badge/🤝_Connect-2BB363?style=for-the-badge&logoColor=white" alt="Connect"/>
+  <img src="https://img.shields.io/badge/📈_Grow-141619?style=for-the-badge&logoColor=white" alt="Grow"/>
+</p>
 
 
 ## Key Features
@@ -75,7 +108,6 @@ Our proprietary AI matching algorithm achieves remarkable accuracy in connecting
 
 
 <p align="center">
-  <img src="assets/icons/morocco_flag.png" alt="Morocco Flag" width="30"/>
   Proudly made in Morocco
 </p>
 
