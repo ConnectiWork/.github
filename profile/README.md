@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="![connecti-work-logo-app](https://github.com/user-attachments/assets/0332ae40-2a6c-4238-8d08-498458153a57)" alt="ConnectiWork Logo" width="300"/>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0332ae40-2a6c-4238-8d08-498458153a57" alt="ConnectiWork Logo" width="300"/>
+</div>
 
 <h1 align="center">ConnectiWork</h1>
 <h3 align="center">Connecting Talent with Opportunities for the 2030 World Cup in Morocco</h3>
