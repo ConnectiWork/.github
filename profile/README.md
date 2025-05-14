@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0332ae40-2a6c-4238-8d08-498458153a57" alt="ConnectiWork Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/eea7d81d-94bb-4b42-a125-6d1f01fb3da7" alt="ConnectiWork Logo" width="300"/>
 </div>
 
 <h1 align="center">ConnectiWork</h1>
