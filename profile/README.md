@@ -7,7 +7,7 @@
 
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/🏆_1st_Place_Winner-FFD700?style=for-the-badge&logoColor=black" alt="1st Place Winner SoliHackathon"/>
+  <img src="https://img.shields.io/badge/🏆_1st_Place_Winner_SoliHackathon-FFD700?style=for-the-badge&logoColor=black" alt="1st Place Winner SoliHackathon"/>
 </h2>
 
 <h3 align="center">
