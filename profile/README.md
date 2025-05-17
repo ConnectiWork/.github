@@ -9,6 +9,8 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/🏆_1st_Place_Winner_SoliHackathon-FFD700?style=for-the-badge&logoColor=black" alt="1st Place Winner SoliHackathon"/>
 </h2>
+![43452DF5-B368-4971-B65D-833219323F7E_1_105_c](https://github.com/user-attachments/assets/8638e43d-4f9e-4361-8cc7-f18cb2ac546c)
+
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/🌍_World_Cup_2030-2BB363?style=for-the-badge&logoColor=white" alt="World Cup 2030"/>
